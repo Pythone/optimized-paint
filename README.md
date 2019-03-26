@@ -1,3 +1,8 @@
+#optimized-paint
+
+note that this is going to be optimized for photo editing. Below is something like the original description but it is also edited. fork of miniPaint by viliusle.
+
+
 # miniPaint
 
 Online image editor lets you create, edit images using HTML5 technologies.
@@ -8,7 +13,7 @@ miniPaint operates directly in the browser. You can create images, paste from cl
 or upload from computer (using menu or drag & drop). Nothing will be sent to any server. Everything stays in your browser. 
 
 ## URL:
-**https://viliusle.github.io/miniPaint/**
+**https://viliusle.github.io/miniPaint/** & **https://pythone.github.io/optimized-paint/**
 
 ## Preview:
 ![miniPaint](https://raw.githubusercontent.com/viliusle/miniPaint/master/images/preview.gif)
@@ -37,7 +42,7 @@ or upload from computer (using menu or drag & drop). Nothing will be sent to any
 ## Embed
 To embed this app in other page, use this HTML code:
 
-    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://viliusle.github.io/miniPaint/"></iframe>
+    <iframe style="width:100%; height:1000px;" id="miniPaint" src="https://pythone.github.io/optimized-paint/"></iframe>
 
 ## Build instructions
 See [Wiki > Build instructions](https://github.com/viliusle/miniPaint/wiki/Build-instructions)
