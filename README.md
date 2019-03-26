@@ -1,4 +1,4 @@
-#optimized-paint
+# optimized-paint
 
 note that this is going to be optimized for photo editing. Below is something like the original description but it is also edited. fork of miniPaint by viliusle.
 
